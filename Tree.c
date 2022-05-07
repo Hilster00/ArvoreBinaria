@@ -115,7 +115,7 @@ void main()
     	printf("\n(2)Visualisar Arvore");
     	printf("\n(3)Visualisar Balanceamento");
     	printf("\n(4)Zerar Arvore");
-    	printf("\n(4)Sair");
+    	printf("\n(5)Sair");
     	printf("\nDigite a opcao desejada:");scanf("%i",&opcao);
     	system("cls");
     	switch(opcao){
